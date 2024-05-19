@@ -1,5 +1,5 @@
 /*
-Theme Name: Carl
+Theme Name: Mica
 Theme URI:
 Author: TemplatesJungle
 Author URI: https://templatesjungle.com/
@@ -11,13 +11,13 @@ Version: 1.2
 /** Base Styles
 --------------------------------------------------------------*/
 :root {
-  --accent-color: #F26649;
-  --secondary-color: #F5F3EB;
-  --dark-color: #241F21;
-  --grey-color: #CECBC7;
-  --body-text-color: #241F21;
-  --light-text-color: #696969;
-  --link-color: #241F21;
+  --accent-color: #FF6F61; /* Coral */
+  --secondary-color: #FFE5D9; /* Coral Claro */
+  --dark-color: #E7544A; /* Coral Escuro */
+  --grey-color: #F8DAD0; /* Cinza Coral Claro */
+  --body-text-color: #402A2C; /* Texto Coral Escuro */
+  --light-text-color: #805F5B; /* Texto Coral Claro */
+  --link-color: #E7544A; /* Link Coral Escuro */
 }
 
 *,
